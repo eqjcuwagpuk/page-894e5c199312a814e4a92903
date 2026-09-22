@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tdvxtic.cn/sitemap.xml
